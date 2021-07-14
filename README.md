@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laytreynolds
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... laytreynolds@hotmail.com
 
